@@ -64,7 +64,7 @@ function Login() {
                 <div className="flex flex-col justify-center font-[sans-serif] sm:h-screen p-4">
                     <div className="max-w-md w-full mx-auto border border-gray-300 rounded-2xl p-8">
                         <div className="text-center mb-12">
-                            <h1 className='text-[#1b2430] font-bold'>Login In</h1>
+                            <h1 className='text-[#1b2430] font-bold'>Login</h1>
                         </div>
 
                         <form>
